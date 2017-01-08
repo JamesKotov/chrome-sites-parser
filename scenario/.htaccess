@@ -1,0 +1,4 @@
+<FilesMatch "\.(js|php)$">
+Order Deny,Allow
+Deny from all
+</FilesMatch>
