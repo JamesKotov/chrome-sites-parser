@@ -1,2 +1,2 @@
-# colect
+# collect
 sites parser
